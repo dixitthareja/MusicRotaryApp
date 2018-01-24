@@ -1,0 +1,15 @@
+{
+  "name": "musicgrouptestcase",
+  "version": "1.0.0",
+  "description": "MusicGroupTestCase",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dixit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "pixi": "^0.3.1"
+  }
+}
